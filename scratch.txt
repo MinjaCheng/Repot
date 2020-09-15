@@ -1,3 +1,4 @@
 Testar om det fungerar
-Jag gör en ändring i IntelliJ, ska skickas till GitHub
+
+Ändringen ska göras från IntelliJ, ska skickas till GitHub. :)
 
