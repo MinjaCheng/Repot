@@ -2,4 +2,8 @@ Testar om det fungerar
 
 Ändringen ska göras från IntelliJ, ska skickas till GitHub. :)
 
-Vart to rad 3 och 4 vägen?
+Skriver från newBranch
+
+Hej, jag heter Minja Cheng
+
+Vart to rad 3 och 4 vägen? Ok de kom fram när jag, löste konflikten och mergade branchen
