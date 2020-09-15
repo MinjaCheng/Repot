@@ -3,3 +3,5 @@ Testar om det fungerar
 Ändringen ska göras från IntelliJ, ska skickas till GitHub. :)
 
 Skriver från newBranch
+
+Hej, jag heter Minja Cheng
